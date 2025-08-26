@@ -1,6 +1,8 @@
 RENCANA KONTEN DONNY :
 
 1. Vidio Javascript
+ES 6
+Jquery
 2. Vidio PHP
 3. Interview
 4. Vidio React js
