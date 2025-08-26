@@ -3,4 +3,4 @@ Donny Resolusi :
 - Membuat platform penggunaan vidio
 - Terus belajar
 - Membuat webcam recognition
-- Membuat Webgis
+
