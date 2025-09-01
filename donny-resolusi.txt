@@ -1,4 +1,6 @@
 Donny Resolusi :
+- Sturuktur data konten 1
+- Sturuktur data konten 2
 - Konsisten membuat konten
 - Membuat platform penggunaan vidio
 - Terus belajar
