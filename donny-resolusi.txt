@@ -4,5 +4,8 @@ Donny Resolusi :
 - Konsisten membuat konten
 - Membuat platform penggunaan vidio
 - Terus belajar
+  ^ Belajar React js
 - Membuat webcam recognition
+  ^ Dari image
+  ^ Dari file video
 
