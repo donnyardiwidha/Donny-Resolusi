@@ -5,4 +5,6 @@ Donny Resolusi :
 - Membuat platform penggunaan vidio
 - Terus belajar
 - Membuat webcam recognition
+  ^ Dari image
+  ^ Dari file video
 
