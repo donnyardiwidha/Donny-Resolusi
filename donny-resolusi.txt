@@ -4,9 +4,12 @@ Donny Resolusi :
 - Terus belajar
   ^ Belajar python
   ^ Belajar Nodejs
+  ^ Belajar React js
 - Belajar framework
   ^ Belajar Laravel
 - Membuat webcam recognition
   ^ Recognition Image
   ^ Recognition dari CCTV
+  ^ Dari file video
+
 
